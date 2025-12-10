@@ -89,11 +89,11 @@ Os gráficos serão salvos em images/.
 <!-- h'F -->
 <div align="center">
   <h4><strong>h'F × PPEF</strong></h4>
-  <img src="images/WCOH_ARG_h'F_PPEF.png" alt="WCOH h'F × PPEF" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_PPEF.png" alt="WCOH h'F × PPEF" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × DDEF</strong></h4>
-  <img src="images/WCOH_ARG_h'F_DDEF.png" alt="WCOH h'F × DDEF" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_DDEF.png" alt="WCOH h'F × DDEF" style="width:80%; max-width:900px;">
 </div>
 
 <!-- hmF2 -->
@@ -123,11 +123,11 @@ Os gráficos serão salvos em images/.
 <!-- h'F -->
 <div align="center">
   <h4><strong>h'F × PPEF</strong></h4>
-  <img src="images/WCOH_SJC_h'F_PPEF.png" alt="WCOH h'F × PPEF" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_SJC_hF_PPEF.png" alt="WCOH h'F × PPEF" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × DDEF</strong></h4>
-  <img src="images/WCOH_SJC_h'F_DDEF.png" alt="WCOH h'F × DDEF" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_SJC_hF_DDEF.png" alt="WCOH h'F × DDEF" style="width:80%; max-width:900px;">
 </div>
 
 <!-- hmF2 -->
@@ -157,11 +157,11 @@ Os gráficos serão salvos em images/.
 <!-- h'F -->
 <div align="center">
   <h4><strong>h'F × PPEF</strong></h4>
-  <img src="images/WCOH_JAT_h'F_PPEF.png" alt="WCOH h'F × PPEF" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_JAT_hF_PPEF.png" alt="WCOH h'F × PPEF" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × DDEF</strong></h4>
-  <img src="images/WCOH_JAT_h'F_DDEF.png" alt="WCOH h'F × DDEF" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_JAT_hF_DDEF.png" alt="WCOH h'F × DDEF" style="width:80%; max-width:900px;">
 </div>
 
 <!-- hmF2 -->
