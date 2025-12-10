@@ -192,6 +192,6 @@ Este projeto foi desenvolvido como parte de um trabalho de pesquisa em Física E
 
 ---
 
-##📜 Licença
+## 📜 Licença
 
 Este repositório está licenciado sob MIT License. Consulte o arquivo LICENSE para mais informações.
